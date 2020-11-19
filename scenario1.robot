@@ -4,8 +4,8 @@ Library           SeleniumLibrary    timeout=300
 *** Variables ***
 ${URL}            https://staging.arthuronline.co.uk/login?X-MODE=QA-eW91LXdpbi1ub3RoaW5nCg
 ${BROWSER}        GC
-${USERNAME}       dhruv+candidateone@firecreekweb.com
-${PASSWORD}       Qwerty66#
+${USERNAME}       
+${PASSWORD}       
 
 *** Test Cases ***
 Scenario 1 : Login to system
